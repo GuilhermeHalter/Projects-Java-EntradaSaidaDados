@@ -3,7 +3,7 @@ Calcule e mostre o total do seu salário no referido mês.*/
 
 import java.util.Scanner;
 
-public class Main010
+public class Main012
 {
 	public static void main(String[] args) {
 	    
